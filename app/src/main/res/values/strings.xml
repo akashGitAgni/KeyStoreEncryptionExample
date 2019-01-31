@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeyStoreSample</string>
+    <string name="hello_keystore_encryption">Hello KeyStore Encryption</string>
+</resources>
